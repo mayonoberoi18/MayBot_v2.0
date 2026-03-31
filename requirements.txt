@@ -1,5 +1,5 @@
 streamlit
-wikipedia-api
-duckduckgo-search
+wikipedia
+duckduckgo
 sympy
 Pillow
