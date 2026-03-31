@@ -1,0 +1,5 @@
+streamlit>=1.42.0
+wikipedia-api==0.7.1
+duckduckgo-search==7.5.0
+sympy==1.13.3
+Pillow==11.1.0
